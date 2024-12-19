@@ -1,0 +1,94 @@
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\bin\Debug\bike inventory.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike inventory.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.login.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike inventory.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\bin\Debug\bike inventory.exe
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\bin\Debug\bike inventory.pdb
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike inventory.exe
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike inventory.pdb
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.add_details.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.supplier.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.add_supplier.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.Staff.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.staff_2.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.staffui.resources
+c:\users\admin\documents\visual studio 2015\Projects\bike inventory\bike inventory\obj\Debug\bike_inventory.adminui.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\bin\Debug\bike inventory.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike inventory.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike inventory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\bin\Debug\bike inventory.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\bin\Debug\bike inventory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.add_details.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.add_supplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.adminui.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.login.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.Staff.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.staff_2.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.staffui.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.supplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike inventory.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike_inventory.edit_details.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory\obj\Debug\bike inventory.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\bin\Debug\bike inventory.exe.config
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike inventory.exe
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike inventory.pdb
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\bin\Debug\bike inventory.exe
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\bin\Debug\bike inventory.pdb
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike inventory.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.add_details.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.add_supplier.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.adminui.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.edit_details.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.login.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.Staff.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.staff_2.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.staffui.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.supplier.resources
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike inventory.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\bike inventory-20241122T130511Z-001\bike inventory\obj\Debug\bike_inventory.staffsales.resources
+C:\Users\ADMIN\Downloads\bike inventory (2)\bike inventory\bin\Debug\bike inventory.exe.config
+C:\Users\ADMIN\Downloads\bike inventory (2)\bike inventory\obj\Debug\bike inventory.exe
+C:\Users\ADMIN\Downloads\bike inventory (2)\bike inventory\obj\Debug\bike inventory.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\bin\Debug\bike inventory.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike inventory.exe
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike inventory.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\bin\Debug\bike inventory.exe
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\bin\Debug\bike inventory.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike inventory.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.add_details.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.add_supplier.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.adminui.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.edit_details.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.login.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.useraccount.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.staff_2.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.staffsales.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.staffui.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.adminsupplier.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike inventory.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bike inventory (2)\bike inventory\obj\Debug\bike_inventory.stafforder.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\bin\Debug\bike inventory.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike inventory.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike inventory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\bin\Debug\bike inventory.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\bin\Debug\bike inventory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.add_details.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.add_supplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.adminui.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.edit_details.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.login.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.stafforder.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.useraccount.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.staffsales.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.staffui.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.adminsupplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike inventory.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.edit_supplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike inventory.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.item_bought.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\bike inventory 0.1\obj\Debug\bike_inventory.admin_sales.resources
